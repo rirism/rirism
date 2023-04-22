@@ -1,6 +1,6 @@
 ### Hello, fellow code warrior! 👋
 
-I'm an information system student at Universitas who's passionate about web development and UI/UX design. I love creating beautiful and functional websites that make people go 'wow'. I'm always curious to learn about new technologies and improve my skills, so don't hesitate to send me a pull request or two! When I'm not coding, you can find me scrolling through Instagram, stumbling upon stunning ocean creatures and maybe some funny videos. Let's build something amazing together! \
+I'm an information system student at Universitas Indonesia who's passionate about web development and UI/UX design. I love creating beautiful and functional websites that make people go 'wow'. I'm always curious to learn about new technologies and improve my skills, so don't hesitate to send me a pull request or two! When I'm not coding, you can find me scrolling through Instagram, stumbling upon stunning ocean creatures and maybe some funny videos. Let's build something amazing together! \
 
 Hit me up on the professional side of the interwebs a.k.a [LinkedIn](https://www.linkedin.com/in/riristogatorop/)
 
